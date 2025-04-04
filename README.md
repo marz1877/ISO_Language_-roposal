@@ -12,6 +12,7 @@ Language Code standard draft that illustrates hierarchies and similarities.
 - ISO 639-2 assigns the language group code "afa" to represent the Afro-Asiatic language family as a whole. Each individual language within this family has its own unique three-letter code, such as "ara" for Arabic, "heb" for Hebrew, "amh" for Amharic, and "hau" for Hausa.
 - ISO 639-3 - Only has 3 letter for each "dialect".
 - Current stadard don't have codes for “French- Parisian” or “French-Quebecois” and some people use and it's not very standard languge and not programming friendly.
+- https://en.wikipedia.org/wiki/Pidgin
 
 # Standard Specs
 
