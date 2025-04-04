@@ -19,17 +19,18 @@ Nothing already exists/proposed standard for it.
 
 DRAFT
 ## 4 Level
-En-GB-Ln-S (South London English) - English: En Dialect: En-GB (British English) Sub-Dialect: En-GB-Ln (London English) Another Sub-Dialect: S
-En-US-Tx-Ho (Houston Texas English)
-En-GB-Sc-Ed (Edinburgh Scottish English)
-En-CA-Qc-Mt (Montreal Quebec English)
-Es-ES-Ca-Md (Madrid Castilian Spanish) - Spanish - European Spanish- Sub-Dialect: Es-ES-Ca (Castilian Spanish) - Sub-Dialect 2 : Md
-Hi-IN-UP-Al (Allahabad Uttar Pradesh Hindi) - Hindi: Hi Dialect: Hi-IN (Indian Hindi) Sub-Dialect: Hi-IN-UP (Uttar Pradesh Hindi) Another Sub-Dialect: Al
-Zh-CN-Sh-Js (Jiangsu Shanghai Dialect) - Chinese Zh Dialect: Zh-CN (Simplified Chinese) Sub-Dialect: Zh-CN-Sh (Shanghai Dialect) Another Sub-Dialect:  Js
-Ar-MA-Rb-Mq (Meknes Rabat Moroccan Arabic) - Moroccan Arabic - Rabat Moroccan Arabic
+- En-GB-Ln-S (South London English) - English: En Dialect: En-GB (British English) Sub-Dialect: En-GB-Ln (London English) Another Sub-Dialect: S
+- En-US-Tx-Ho (Houston Texas English)
+- En-GB-Sc-Ed (Edinburgh Scottish English)
+- En-CA-Qc-Mt (Montreal Quebec English)
+- Es-ES-Ca-Md (Madrid Castilian Spanish) - Spanish - European Spanish- Sub-Dialect: Es-ES-Ca (Castilian Spanish) - Sub-Dialect 2 : Md
+- Hi-IN-UP-Al (Allahabad Uttar Pradesh Hindi) - Hindi: Hi Dialect: Hi-IN (Indian Hindi) Sub-Dialect: Hi-IN-UP (Uttar Pradesh Hindi) Another Sub-Dialect: Al
+- Zh-CN-Sh-Js (Jiangsu Shanghai Dialect) - Chinese Zh Dialect: Zh-CN (Simplified Chinese) Sub-Dialect: Zh-CN-Sh (Shanghai Dialect) Another Sub-Dialect:  Js
+- Ar-MA-Rb-Mq (Meknes Rabat Moroccan Arabic) - Moroccan Arabic - Rabat Moroccan Arabic
 
 ## 3 Level
 En-GB-Sc (Scottish English) - English: En Dialect: En-GB (British English) Sub-Dialect: Sc
+
 1+ Cities with similar Dialects
 3 Level - En-IN-Dl/Mm (Mumbai Delhi English)
 2 Level - En-AU/Ns/Sy (Sydney New South Wales English)
@@ -38,7 +39,7 @@ En-GB-Sc (Scottish English) - English: En Dialect: En-GB (British English) Sub-D
 To Do Later
 
 
-### Advantage 
+## Advantage 
 
 People dealing with ISO code have to learn it. My way achieves what ISO does and is more human friendly, In the sense that it is easy to understand. Read multiple code and relate between them.
 
@@ -48,10 +49,6 @@ Sometimes people are organized.
 
 But “French- Parisian” is not very ISO-sy. I mean not programming friendly.
 
-
-
-
-### Who codes for city level dialects?
-
+### Who codes for city level dialects
 
 What is the point it suits both use cases and info is there is you want it
