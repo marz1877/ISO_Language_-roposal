@@ -3,10 +3,10 @@ Language Code standard draft that illustrates hierarchies and similarities.
 
 # Problem
 - IETF and ISO 3166-1 alpha-2 has a codes like en-US American_English
-
 - ISO 639-2 includes not only individual language codes but also broader language group codes that represent families or groups of related languages. These group codes are used to categorize languages that share a common origin, linguistic features, or historical relationship. For example, consider the Afro-Asiatic language family, which includes languages such as Arabic, Hebrew, Amharic, and Hausa, among others.
 - ISO 639-2 assigns the language group code "afa" to represent the Afro-Asiatic language family as a whole. Each individual language within this family has its own unique three-letter code, such as "ara" for Arabic, "heb" for Hebrew, "amh" for Amharic, and "hau" for Hausa.
-- ISO 639-3 - Only has 3 letter for each "dialect". 
+- ISO 639-3 - Only has 3 letter for each "dialect".
+- Current stadard don't have codes for “French- Parisian” or “French-Quebecois” and some people use and it's not very standard languge and not programming friendly.
 
 # Standard Specs
 
@@ -33,21 +33,40 @@ Algerian Arabic is Arabic - Maghrebi Arabic - Algerian Arabic. ISO 639-3	`arq`
 
 # City
 
-1+ Cities with similar Dialects
-3 Level - En-IN-Dl/Mm (Mumbai Delhi English)
-2 Level - En-AU/Ns/Sy (Sydney New South Wales English)
+Cities with similar Dialects are griuped together with `/`
+
+#### Example
+
+1. *3 Level* - En-IN-Dl/Mm (Mumbai/Delhi English)
+2. *2 Level* - En-AU/Ns/Sy (Sydney New South Wales English)
 
 # Accent
-To Do Later
+https://en.wikipedia.org/wiki/Regional_accents_of_English
 
+#### Example - For English US
+
+`En-US-[US]`
+
+# Languge Groups
+
+#### Example
+
+1. English - Indo-European - Germanic - West Germanic - North Sea Germanic - Anglic - English
 
 ## Advantage 
 
-- Easy - Made for Humans.
-- This way achieves what ISO does and is more human friendly, In the sense that it is easy to understand.
-- Read multiple code and relate between them.
-- Current stadard don't have codes for “French- Parisian” or “French-Quebecois” and some people use and it's not very standard languge and not programming friendly.
+- Made for Humans and Machine.
+  - Read multiples code and relate between them.
+- Flexible - This way achieves what ISO does and is more human friendly and can contain as-mush or as-less infomation you need.
 
 ### Who codes for city level dialects
 
 it suits both use cases and info is there is you want it
+
+## Also See
+
+https://www.iso.org/iso-639-language-code
+https://www.loc.gov/standards/iso639-2/
+https://iso639-3.sil.org/
+
+https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_English_is_an_official_language
