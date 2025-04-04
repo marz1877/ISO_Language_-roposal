@@ -36,3 +36,22 @@ En-GB-Sc (Scottish English) - English: En Dialect: En-GB (British English) Sub-D
 
 # Accent
 To Do Later
+
+
+### Advantage 
+
+People dealing with ISO code have to learn it. My way achieves what ISO does and is more human friendly, In the sense that it is easy to understand. Read multiple code and relate between them.
+
+I can already sometimes choose “French- Parisian” or “French-Quebecois”.
+
+Sometimes people are organized.
+
+But “French- Parisian” is not very ISO-sy. I mean not programming friendly.
+
+
+
+
+### Who codes for city level dialects?
+
+
+What is the point it suits both use cases and info is there is you want it
