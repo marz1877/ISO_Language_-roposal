@@ -94,10 +94,6 @@ Persian - Farsi
 
 1st Standardize in [Latin](https://en.wikipedia.org/wiki/Latin_script) Script than can add localization for other languages
 
-### Who codes for city level dialects
-
-it suits both use cases and info is there is you want it
-
 ## Also See
 
 - https://www.iso.org/iso-639-language-code
