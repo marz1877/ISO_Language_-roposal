@@ -21,6 +21,9 @@ Language Code standard draft that illustrates hierarchies and similarities.
 - Ar-MA-Rb-Mq (Meknes Rabat Moroccan Arabic) - Moroccan Arabic - Rabat Moroccan Arabic
 
 ## 3 Level
+
+Wiki - https://en.wikipedia.org/wiki/List_of_dialects_of_English
+
 En-GB-Sc (Scottish English)
 - English: En Dialect: En-GB (British English) Sub-Dialect: Sc
 
@@ -48,7 +51,8 @@ Cities with similar Dialects are griuped together with `/`
 2. *2 Level* - En-AU/Ns/Sy (Sydney New South Wales English)
 
 # Accent
-https://en.wikipedia.org/wiki/Regional_accents_of_English
+
+Wiki - https://en.wikipedia.org/wiki/Regional_accents_of_English
 
 #### Example - For English US
 
