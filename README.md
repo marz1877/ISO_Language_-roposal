@@ -4,13 +4,11 @@ Language Code standard draft that illustrates hierarchies and similarities.
 # Problem
 - IETF and ISO 3166-1 alpha-2 has a codes like en-US American_English
 
-- ISO 639-2 includes not only individual language codes but also broader language group codes that represent families or groups of related languages. These group codes are used to categorize languages that share a common origin, linguistic features, or historical relationship. For example, consider the Afro-Asiatic language family, which includes languages such as Arabic, Hebrew, Amharic, and Hausa, among others. ISO 639-2 assigns the language group code "afa" to represent the Afro-Asiatic language family as a whole. Each individual language within this family has its own unique three-letter code, such as "ara" for Arabic, "heb" for Hebrew, "amh" for Amharic, and "hau" for Hausa.
-ISO 639-3 - Only has 3 letter for each "dialect".
-Algerian Arabic is Arabic - Maghrebi Arabic - Algerian Arabic. ISO 639-3	arq
+- ISO 639-2 includes not only individual language codes but also broader language group codes that represent families or groups of related languages. These group codes are used to categorize languages that share a common origin, linguistic features, or historical relationship. For example, consider the Afro-Asiatic language family, which includes languages such as Arabic, Hebrew, Amharic, and Hausa, among others.
+- ISO 639-2 assigns the language group code "afa" to represent the Afro-Asiatic language family as a whole. Each individual language within this family has its own unique three-letter code, such as "ara" for Arabic, "heb" for Hebrew, "amh" for Amharic, and "hau" for Hausa.
+- ISO 639-3 - Only has 3 letter for each "dialect". 
 
-Nothing already exists/proposed standard for it.
-
-
+# Standard Specs
 
 ## 4 Level
 - En-GB-Ln-S (South London English) - English: En Dialect: En-GB (British English) Sub-Dialect: En-GB-Ln (London English) Another Sub-Dialect: S
@@ -27,6 +25,8 @@ En-GB-Sc (Scottish English)
 - English: En Dialect: En-GB (British English) Sub-Dialect: Sc
 
 ### Ar-Mb-Al
+Algerian Arabic is Arabic - Maghrebi Arabic - Algerian Arabic. ISO 639-3	`arq`
+
  - "Ar" represents Arabic, the main language family or group.
  - "Mb" represents Maghrebi Arabic, the broader dialect group that includes Algerian Arabic.
  - "Al" represents Algerian Arabic, the specific sub-dialect within the Maghrebi Arabic group.
