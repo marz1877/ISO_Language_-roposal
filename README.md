@@ -1,6 +1,11 @@
 # Language Standard Code Proposal
 Language Code standard draft that illustrates hierarchies and similarities.
 
+# Advantage
+- Made for Humans and Machine.
+  - Read multiples code and relate between them.
+- Flexible - This way achieves what ISO does and is more human friendly and can contain as-mush or as-less infomation you need.
+
 # Problem
 - IETF and ISO 3166-1 alpha-2 has a codes like en-US American_English
 - ISO 639-2 includes not only individual language codes but also broader language group codes that represent families or groups of related languages. These group codes are used to categorize languages that share a common origin, linguistic features, or historical relationship. For example, consider the Afro-Asiatic language family, which includes languages such as Arabic, Hebrew, Amharic, and Hausa, among others.
@@ -10,7 +15,7 @@ Language Code standard draft that illustrates hierarchies and similarities.
 
 # Standard Specs
 
-## 4 Level
+## 4 Level (Lanaguge - Dialect - Sub Dialect - Sub Dialect v2)
 - En-GB-Ln-S (South London English) - English: En Dialect: En-GB (British English) Sub-Dialect: En-GB-Ln (London English) Another Sub-Dialect: S
 - En-US-Tx-Ho (Houston Texas English)
 - En-GB-Sc-Ed (Edinburgh Scottish English)
@@ -77,15 +82,15 @@ Explaination - https://en.wikipedia.org/wiki/Lingua_franca TLDR 2 different Lang
 
 Languges are own differently in other languages, prefer Native Language name.
 
-Example -
+#### Example
 
 Persian - Farsi
 
-## Advantage 
+## Scrit
 
-- Made for Humans and Machine.
-  - Read multiples code and relate between them.
-- Flexible - This way achieves what ISO does and is more human friendly and can contain as-mush or as-less infomation you need.
+1st Standardize in [Latin](https://en.wikipedia.org/wiki/Latin_script) Script than can add localization for other languages
+
+
 
 ### Who codes for city level dialects
 
