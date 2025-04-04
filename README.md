@@ -1,4 +1,4 @@
-# ISO_Language_Proposal
+# Language Standrd Code Proposal
 Language Code standard draft that illustrates hierarchies and similarities.
 
 # Problem
