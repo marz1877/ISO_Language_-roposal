@@ -31,7 +31,11 @@ Algerian Arabic is Arabic - Maghrebi Arabic - Algerian Arabic. ISO 639-3	`arq`
  - "Mb" represents Maghrebi Arabic, the broader dialect group that includes Algerian Arabic.
  - "Al" represents Algerian Arabic, the specific sub-dialect within the Maghrebi Arabic group.
 
-# City
+# Creole are listed after Dialects
+
+https://en.wikipedia.org/wiki/Bajan_Creole
+
+# City Dialects
 
 Cities with similar Dialects are griuped together with `/`
 
