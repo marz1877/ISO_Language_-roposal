@@ -107,3 +107,7 @@ it suits both use cases and info is there is you want it
 - https://www.ietf.org/
 
 - https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_English_is_an_official_language
+
+# License
+
+This is free for OpenSource and Non-Profit Software.
