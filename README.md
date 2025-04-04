@@ -89,8 +89,10 @@ it suits both use cases and info is there is you want it
 
 ## Also See
 
-https://www.iso.org/iso-639-language-code
-https://www.loc.gov/standards/iso639-2/
-https://iso639-3.sil.org/
+- https://www.iso.org/iso-639-language-code
+- https://www.loc.gov/standards/iso639-2/
+- https://iso639-3.sil.org/
 
-https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_English_is_an_official_language
+- https://www.ietf.org/
+
+- https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_English_is_an_official_language
