@@ -8,16 +8,10 @@ Language Code standard draft that illustrates hierarchies and similarities.
 ISO 639-3 - Only has 3 letter for each "dialect".
 Algerian Arabic is Arabic - Maghrebi Arabic - Algerian Arabic. ISO 639-3	arq
 
-#### For it I thinking something like - Ar-Mb-Al
- - "Ar" represents Arabic, the main language family or group.
- - "Mb" represents Maghrebi Arabic, the broader dialect group that includes Algerian Arabic.
- - "Al" represents Algerian Arabic, the specific sub-dialect within the Maghrebi Arabic group.
-
 Nothing already exists/proposed standard for it.
 
----------------------------------------------------------------------------------------------------------------------------
 
-DRAFT
+
 ## 4 Level
 - En-GB-Ln-S (South London English) - English: En Dialect: En-GB (British English) Sub-Dialect: En-GB-Ln (London English) Another Sub-Dialect: S
 - En-US-Tx-Ho (Houston Texas English)
@@ -31,6 +25,11 @@ DRAFT
 ## 3 Level
 En-GB-Sc (Scottish English)
 - English: En Dialect: En-GB (British English) Sub-Dialect: Sc
+
+### Ar-Mb-Al
+ - "Ar" represents Arabic, the main language family or group.
+ - "Mb" represents Maghrebi Arabic, the broader dialect group that includes Algerian Arabic.
+ - "Al" represents Algerian Arabic, the specific sub-dialect within the Maghrebi Arabic group.
 
 # City
 
