@@ -1,4 +1,4 @@
-# Language Standrd Code Proposal
+# Language Standard Code Proposal
 Language Code standard draft that illustrates hierarchies and similarities.
 
 # Problem
@@ -33,7 +33,10 @@ Algerian Arabic is Arabic - Maghrebi Arabic - Algerian Arabic. ISO 639-3	`arq`
 
 # Creole are listed after Dialects
 
+Example - 
+
 https://en.wikipedia.org/wiki/Bajan_Creole
+https://en.wikipedia.org/wiki/Jamaican_Patois
 
 # City Dialects
 
@@ -51,11 +54,28 @@ https://en.wikipedia.org/wiki/Regional_accents_of_English
 
 `En-US-[US]`
 
+# Langua Franka
+
+Always Group Langue frank together
+
+Explaination - https://en.wikipedia.org/wiki/Lingua_franca TLDR 2 different Languages but mutually intelligible
+
+[Hindustani](https://en.wikipedia.org/wiki/Hindustani_language) [Hindi](https://en.wikipedia.org/wiki/Hindi) [Urdu](https://en.wikipedia.org/wiki/Urdu)
+
 # Languge Groups
 
 #### Example
 
 1. English - Indo-European - Germanic - West Germanic - North Sea Germanic - Anglic - English
+
+
+## Internationalisaition 
+
+Languges are own differently in other languages, prefer Native Language name.
+
+Example -
+
+Persian - Farsi
 
 ## Advantage 
 
