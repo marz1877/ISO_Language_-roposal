@@ -15,15 +15,18 @@ Language Code standard draft that illustrates hierarchies and similarities.
 
 # Standard Specs
 
-## 4 Level (Lanaguge - Dialect - Sub Dialect - Sub Dialect v2)
-- En-GB-Ln-S (South London English) - English: En Dialect: En-GB (British English) Sub-Dialect: En-GB-Ln (London English) Another Sub-Dialect: S
+## 4 Level                                    (Lanaguge - Dialect - Sub Dialect - Sub Dialect v2)
+- En-GB-Ln-S (South London English) -            English: En Dialect: En-GB (British English) Sub-Dialect: En-GB-Ln (London English) Another Sub-Dialect: S
 - En-US-Tx-Ho (Houston Texas English)
 - En-GB-Sc-Ed (Edinburgh Scottish English)
 - En-CA-Qc-Mt (Montreal Quebec English)
-- Es-ES-Ca-Md (Madrid Castilian Spanish) - Spanish - European Spanish- Sub-Dialect: Es-ES-Ca (Castilian Spanish) - Sub-Dialect 2 : Md
-- Hi-IN-UP-Al (Allahabad Uttar Pradesh Hindi) - Hindi: Hi Dialect: Hi-IN (Indian Hindi) Sub-Dialect: Hi-IN-UP (Uttar Pradesh Hindi) Another Sub-Dialect: Al
-- Zh-CN-Sh-Js (Jiangsu Shanghai Dialect) - Chinese Zh Dialect: Zh-CN (Simplified Chinese) Sub-Dialect: Zh-CN-Sh (Shanghai Dialect) Another Sub-Dialect:  Js
-- Ar-MA-Rb-Mq (Meknes Rabat Moroccan Arabic) - Moroccan Arabic - Rabat Moroccan Arabic
+- Es-ES-Ca-Md (Madrid Castilian Spanish) -            Spanish - European Spanish- Sub-Dialect: Es-ES-Ca (Castilian Spanish) - Sub-Dialect 2 : Md
+  
+- Hi-IN-UP-Al (Allahabad Uttar Pradesh Hindi) -            Hindi: Hi Dialect: Hi-IN (Indian Hindi) Sub-Dialect: Hi-IN-UP (Uttar Pradesh Hindi) Another Sub-Dialect: Al
+  
+- Zh-CN-Sh-Js (Jiangsu Shanghai Dialect) -            Chinese Zh Dialect: Zh-CN (Simplified Chinese) Sub-Dialect: Zh-CN-Sh (Shanghai Dialect) Another Sub-Dialect:  Js
+  
+- Ar-MA-Rb-Mq (Meknes Rabat Moroccan Arabic) -            Moroccan Arabic - Rabat Moroccan Arabic
 
 ## 3 Level
 
@@ -41,10 +44,10 @@ Algerian Arabic is Arabic - Maghrebi Arabic - Algerian Arabic. ISO 639-3	`arq`
 
 # Creole are listed after Dialects
 
-Example - 
+#### Example
 
-https://en.wikipedia.org/wiki/Bajan_Creole
-https://en.wikipedia.org/wiki/Jamaican_Patois
+- https://en.wikipedia.org/wiki/Bajan_Creole
+- https://en.wikipedia.org/wiki/Jamaican_Patois
 
 # City Dialects
 
