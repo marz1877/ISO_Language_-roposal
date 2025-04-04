@@ -75,12 +75,16 @@ Explaination - https://en.wikipedia.org/wiki/Lingua_franca TLDR 2 different Lang
 
 [Hindustani](https://en.wikipedia.org/wiki/Hindustani_language) [Hindi](https://en.wikipedia.org/wiki/Hindi) [Urdu](https://en.wikipedia.org/wiki/Urdu)
 
-# Languge Groups
+# Language family
+
+https://en.wikipedia.org/wiki/Language_family
 
 #### Example
 
 1. English - Indo-European - Germanic - West Germanic - North Sea Germanic - Anglic - English
-
+	
+1. Indo-European - Germanic - West Germanic - Elbe Germanic - High German - German	
+1. Indo-European - Germanic - West Germanic - Weser–Rhine Germanic - Low Franconian - Dutch
 
 ## Internationalisaition 
 
@@ -88,7 +92,8 @@ Languges are own differently in other languages, prefer Native Language name.
 
 #### Example
 
-Persian - Farsi
+German -  Deutsch
+Persian -  Farsi
 
 ## Scrit
 
