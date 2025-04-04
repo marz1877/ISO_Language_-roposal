@@ -16,6 +16,7 @@ Language Code standard draft that illustrates hierarchies and similarities.
 # Standard Specs
 
 ## 4 Level                                    (Lanaguge - Dialect - Sub Dialect - Sub Dialect v2)
+
 - En-GB-Ln-S (South London English) -            English: En Dialect: En-GB (British English) Sub-Dialect: En-GB-Ln (London English) Another Sub-Dialect: S
 - En-US-Tx-Ho (Houston Texas English)
 - En-GB-Sc-Ed (Edinburgh Scottish English)
@@ -32,8 +33,7 @@ Language Code standard draft that illustrates hierarchies and similarities.
 
 Wiki - https://en.wikipedia.org/wiki/List_of_dialects_of_English
 
-En-GB-Sc (Scottish English)
-- English: En Dialect: En-GB (British English) Sub-Dialect: Sc
+En-GB-Sc (Scottish English) -            English: En - Dialect: En-GB (British English) - Sub-Dialect: Sc
 
 ### Ar-Mb-Al
 Algerian Arabic is Arabic - Maghrebi Arabic - Algerian Arabic. ISO 639-3	`arq`
@@ -92,8 +92,6 @@ Persian - Farsi
 ## Scrit
 
 1st Standardize in [Latin](https://en.wikipedia.org/wiki/Latin_script) Script than can add localization for other languages
-
-
 
 ### Who codes for city level dialects
 
